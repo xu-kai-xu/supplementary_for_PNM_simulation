@@ -1,0 +1,5 @@
+参考github上的 scienceplots 库，见 https://github.com/xu-kai-xu/SciencePlots
+
+stylelib文件夹路径
+
+C:\Users\...[用户名]\.matplotlib\stylelib
