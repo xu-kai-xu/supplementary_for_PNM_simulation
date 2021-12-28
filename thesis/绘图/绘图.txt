@@ -3,3 +3,7 @@
 stylelib文件夹路径
 
 C:\Users\...[用户名]\.matplotlib\stylelib
+
+或者
+
+D:\program_files\conda\Lib\site-packages\matplotlib\mpl-data\stylelib
